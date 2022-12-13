@@ -1,0 +1,155 @@
+
+App Thinning Size Report for All Variants of ObjectDetection
+
+Variant: ObjectDetection-04C68272-441D-49A8-9BF7-7067EE480979.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPod9,1, os-version: 14.0], [device: iPhone8,1, os-version: 14.0], [device: iPod9,1, os-version: 13.0], and [device: iPhone8,4, os-version: 13.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-1612EBB1-9B30-4A8A-88A4-ABCB4F961147.ipa
+Supported variant descriptors: [device: iPhone8,4, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPod7,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], and [device: iPhone6,1, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-21D1ED8D-94C2-44DA-8DD5-D37B68C94903.ipa
+Supported variant descriptors: [device: iPhone11,6, os-version: 12.0], [device: iPhone10,5, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone11,2, os-version: 12.0], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,3, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], and [device: iPhone10,6, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-301D7014-67B3-41FB-B8CB-63A186B313CD.ipa
+Supported variant descriptors: [device: iPad11,3, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,10, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad8,3, os-version: 14.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,8, os-version: 14.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,9, os-version: 13.0], [device: iPad8,8, os-version: 13.0], [device: iPad6,4, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad7,3, os-version: 13.0], [device: iPad8,1, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,3, os-version: 13.0], [device: iPad7,2, os-version: 14.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,7, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,2, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad7,4, os-version: 13.0], [device: iPad8,5, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,6, os-version: 14.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,4, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: MacFamily20,1, os-version: 14.0], [device: iPad6,3, os-version: 14.0], and [device: iPad8,4, os-version: 13.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-3966333B-751C-4123-B4C6-6D606FC807EA.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.2], [device: iPhone10,1, os-version: 12.2], and [device: iPhone9,3, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-40A7939D-4006-4720-9624-3536596D83A6.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPhone8,1, os-version: 12.2], [device: iPhone6,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], and [device: iPod9,1, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-45F48401-42F5-4FF1-B109-283F5628014C.ipa
+Supported variant descriptors: [device: iPad7,1, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad8,7, os-version: 12.0], [device: iPad6,3, os-version: 12.0], [device: iPad7,3, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,1, os-version: 12.0], [device: iPad8,3, os-version: 12.0], [device: iPad8,5, os-version: 12.0], [device: iPad8,2, os-version: 12.0], [device: iPad6,4, os-version: 12.0], and [device: iPad7,2, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-4FF9FCEB-3C20-42ED-8180-D97CF8F2632E.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 14.0] and [device: iPhone8,2, os-version: 13.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-60B69A6B-66F9-4A30-9FBC-F1AE85CAA67E.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 12.0], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], and [device: iPhone10,4, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-658CE69C-61D0-49EC-8088-CD423A11A5BF.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-6B63A026-5E95-4E0E-AA24-2B8BCFAB1243.ipa
+Supported variant descriptors: [device: iPhone7,1, os-version: 12.2] and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-8B42D034-3F41-4B14-941D-DF0B836B447E.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 13.0], [device: iPhone10,1, os-version: 14.0], [device: iPhone9,3, os-version: 13.0], [device: iPhone12,8, os-version: 13.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,1, os-version: 13.0], and [device: iPhone10,4, os-version: 14.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-8D8C6BE0-DC6F-4290-8959-514026E2ACB2.ipa
+Supported variant descriptors: [device: iPhone12,3, os-version: 13.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone10,5, os-version: 14.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,5, os-version: 13.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone12,5, os-version: 13.0], and [device: iPhone11,6, os-version: 13.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-97AA692D-CF5D-401D-A8E6-5E4A4031379B.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12.0], [device: iPad4,3, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad5,4, os-version: 12.0], [device: iPad7,6, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad6,11, os-version: 12.0], [device: iPad4,2, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad6,7, os-version: 12.0], [device: iPad4,6, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad6,12, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad6,8, os-version: 12.0], [device: iPad4,1, os-version: 12.0], and [device: iPad4,8, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-99B18168-6DE1-4D6F-8DB2-12451E506A6F.ipa
+Supported variant descriptors: [device: iPad7,11, os-version: 13.0], [device: iPad6,11, os-version: 14.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,3, os-version: 13.0], [device: iPad6,7, os-version: 13.0], [device: iPad5,3, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad7,12, os-version: 14.0], [device: iPad7,5, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,7, os-version: 14.0], [device: iPad7,6, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad6,8, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad7,11, os-version: 14.0], [device: iPad7,12, os-version: 13.0], [device: iPad5,4, os-version: 14.0], [device: iPad11,6, os-version: 14.0], [device: iPad11,7, os-version: 14.0], [device: iPad6,8, os-version: 14.0], and [device: iPad7,5, os-version: 13.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-A6DE5009-7109-4083-98D2-7C6B8D53DFF1.ipa
+Supported variant descriptors: [device: iPad5,2, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad4,9, os-version: 12.2], [device: iPad4,6, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad6,11, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad5,4, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad4,4, os-version: 12.2], [device: iPad6,8, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad7,6, os-version: 12.2], and [device: iPad4,1, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-AA00238A-0EB4-4498-B192-A1186FCA0FF5.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.0] and [device: iPhone7,1, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-BC8012F8-B003-4E3F-8E35-66DBB481CC14.ipa
+Supported variant descriptors: [device: iPad7,3, os-version: 12.2], [device: iPad8,6, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,7, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad8,5, os-version: 12.2], [device: iPad8,3, os-version: 12.2], [device: iPad8,8, os-version: 12.2], [device: iPad6,3, os-version: 12.2], [device: iPad8,1, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad11,3, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,4, os-version: 12.2], and [device: iPad7,2, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-C0AB13A9-95A4-4161-A670-90B48945C7A8.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 12.2], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,6, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,2, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone9,2, os-version: 12.2], and [device: iPhone9,4, os-version: 12.2]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-CC187265-EAA5-4D5C-B0E5-B4EDCF33D7F1.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], [device: iPhone12,1, os-version: 13.0], and [device: iPhone11,8, os-version: 14.0]
+App + On Demand Resources size: 31.9 MB compressed, 36.7 MB uncompressed
+App size: 31.9 MB compressed, 36.7 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection-EC8308EF-0B00-48F6-B921-F0168C258F16.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0]
+App + On Demand Resources size: 34.3 MB compressed, 44.2 MB uncompressed
+App size: 34.3 MB compressed, 44.2 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: ObjectDetection.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 34.5 MB compressed, 44.4 MB uncompressed
+App size: 34.5 MB compressed, 44.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
