@@ -58,3 +58,4 @@ The app is written entirely in Swift and uses the TensorFlow Lite
 for performing object detection.
 
 The app is built using sample code from the [TensorFlow repository](https://github.com/tensorflow/examples).
+# GolfBallObjectDetector
