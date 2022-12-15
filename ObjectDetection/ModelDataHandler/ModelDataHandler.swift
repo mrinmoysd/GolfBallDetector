@@ -36,7 +36,7 @@ typealias FileInfo = (name: String, extension: String)
 
 /// Information about the MobileNet SSD model.
 enum Yolov5 {
-    static let modelInfo: FileInfo = (name: "yolov5s-fp16", extension: "tflite")
+    static let modelInfo: FileInfo = (name: "best-checked", extension: "tflite")
     static let labelsInfo: FileInfo = (name: "classes", extension: "txt")
 }
 
@@ -177,7 +177,10 @@ class ModelDataHandler: NSObject {
         print(nmsPredictions)
         var inference: [Inference] = []
         for prediction in nmsPredictions {
-            let pred = Inference(confidence: prediction.score, className: prediction.classIndex == 32 ? labels[80] : labels[prediction.classIndex], rect: prediction.rect, displayColor: colorForClass(withIndex: prediction.classIndex + 1))
+//            let pred = Inference(confidence: prediction.score, className: prediction.classIndex == 32 ? labels[80] : labels[prediction.classIndex], rect: prediction.rect, displayColor: colorForClass(withIndex: prediction.classIndex + 1))
+//            inference.append(pred)
+            
+            let pred = Inference(confidence: prediction.score, className: labels[prediction.classIndex], rect: prediction.rect, displayColor: colorForClass(withIndex: prediction.classIndex + 1))
             inference.append(pred)
         }
 //        prediction.classIndex == 29 ? labels[80] :
