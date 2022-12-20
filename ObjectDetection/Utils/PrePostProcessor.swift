@@ -16,7 +16,7 @@ class PrePostProcessor : NSObject {
     // model output is of size 25200*85  10668
     static let outputRow = 25200 // YOLOv5 모델 input size 640 * 640 기준 output Row 값 25200
     static let outputColumn = 6 // 클래스 수 + 5 (left, top, right, bottom, score) 값
-    static let threshold : Float = 0.55 // 객체 탐지를 진행하는 최소한의 임계값 35%
+    static let threshold : Float = 0.35 // 객체 탐지를 진행하는 최소한의 임계값 35%
     static let nmsLimit = 100 // 최대 탐지 개수
     
     // The two methods nonMaxSuppression and IOU below are from  https://github.com/hollance/YOLO-CoreML-MPSNNGraph/blob/master/Common/Helpers.swift

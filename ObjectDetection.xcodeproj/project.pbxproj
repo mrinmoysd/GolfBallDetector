@@ -31,6 +31,7 @@
 		AAEF3D8D21A2BE2B0073AE1C /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAEF3D8C21A2BE2B0073AE1C /* UIColorExtension.swift */; };
 		E55A46AD2939CA0800743E5F /* yolov5s-fp16.tflite in Resources */ = {isa = PBXBuildFile; fileRef = E55A46AC2939CA0800743E5F /* yolov5s-fp16.tflite */; };
 		E59B1D34294A38BD00A0FE7A /* best-checked.tflite in Resources */ = {isa = PBXBuildFile; fileRef = E59B1D33294A38BD00A0FE7A /* best-checked.tflite */; };
+		E5AFDB082951D70C006AC8E0 /* best-fp16.tflite in Resources */ = {isa = PBXBuildFile; fileRef = E5AFDB072951D70C006AC8E0 /* best-fp16.tflite */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -62,6 +63,7 @@
 		DF4F6B8BCAE2ED62F2B684E1 /* Pods_ObjectDetection.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ObjectDetection.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E55A46AC2939CA0800743E5F /* yolov5s-fp16.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = "yolov5s-fp16.tflite"; sourceTree = "<group>"; };
 		E59B1D33294A38BD00A0FE7A /* best-checked.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = "best-checked.tflite"; sourceTree = "<group>"; };
+		E5AFDB072951D70C006AC8E0 /* best-fp16.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; name = "best-fp16.tflite"; path = "../../../yolov5/runs/train/exp11/weights/best-fp16.tflite"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +96,7 @@
 				E59B1D33294A38BD00A0FE7A /* best-checked.tflite */,
 				E55A46AC2939CA0800743E5F /* yolov5s-fp16.tflite */,
 				AA055D8821622F3E00B25948 /* classes.txt */,
+				E5AFDB072951D70C006AC8E0 /* best-fp16.tflite */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				967912312774565A00519CB8 /* yolov5n-fp16.tflite in Resources */,
 				AA9AC5A4212D39FC000B4E9D /* Main.storyboard in Resources */,
 				AA055D8921622F3E00B25948 /* classes.txt in Resources */,
+				E5AFDB082951D70C006AC8E0 /* best-fp16.tflite in Resources */,
 				E59B1D34294A38BD00A0FE7A /* best-checked.tflite in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
